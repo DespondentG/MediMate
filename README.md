@@ -5,6 +5,4 @@ This is our submission for Layer 2.0, Blockchain Club SRM. It aims to act as a s
 
 Install the following packages to allow the chatbot to run properly:
 
-scikit-learn
-pandas
-pyttsx3
+scikit-learn, pandas, pyttsx3
